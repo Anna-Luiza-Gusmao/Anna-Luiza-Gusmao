@@ -1,5 +1,5 @@
 # 👋 Hi!
-My name is Anna and i'm a FrontEnd Developer<br><br>💻. I program in React (Ts and Js)<br>✨. I'm 19 years old<br>👩‍🎓. I'm a student of Systems Engineering and IT technician
+My name is Anna and i'm a FrontEnd Developer<br><br>💻. I program in React (Ts and Js)<br>✨. I'm 20 years old<br>👩‍🎓. I'm a student of Systems Engineering and IT technician
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anna-luiza-gusm%C3%A3o-b248b3216/) 
 
