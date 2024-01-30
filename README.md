@@ -1,14 +1,19 @@
-<h1 align="left">👋 Hi!</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <img src="my-profile.png"  />
 </div>
 
 ###
 
-<p align="left">💻. I program in React (Ts and Js)<br>✨. I'm 20 years old<br>👩‍🎓. I'm a student of Systems Engineering and IT technician</p>
+<h2 align="left">✨ About me</h2>
+
+###
+
+###
+
+<p align="left">💻. I program in React (Ts and Js)<br>🌙. I'm 20 years old<br>👩‍🎓. I'm a student of Systems Engineering and IT technician</p>
 
 ###
 
