@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">💻. I program in React (Ts and Js)<br>🌙. I'm 20 years old<br>👩‍🎓. I'm a student of Systems Engineering and IT technician</p>
+<p align="left">💻. I program in React (Ts and Js)<br>👩‍🎓. I'm a student of Systems Engineering and IT technician</p>
 
 ###
 
